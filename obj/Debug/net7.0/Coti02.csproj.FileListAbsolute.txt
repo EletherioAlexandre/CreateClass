@@ -1,0 +1,15 @@
+C:\study.NET\Coti02\bin\Debug\net7.0\Coti02.exe
+C:\study.NET\Coti02\bin\Debug\net7.0\Coti02.deps.json
+C:\study.NET\Coti02\bin\Debug\net7.0\Coti02.runtimeconfig.json
+C:\study.NET\Coti02\bin\Debug\net7.0\Coti02.dll
+C:\study.NET\Coti02\bin\Debug\net7.0\Coti02.pdb
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.csproj.AssemblyReference.cache
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.GeneratedMSBuildEditorConfig.editorconfig
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.AssemblyInfoInputs.cache
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.AssemblyInfo.cs
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.csproj.CoreCompileInputs.cache
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.dll
+C:\study.NET\Coti02\obj\Debug\net7.0\refint\Coti02.dll
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.pdb
+C:\study.NET\Coti02\obj\Debug\net7.0\Coti02.genruntimeconfig.cache
+C:\study.NET\Coti02\obj\Debug\net7.0\ref\Coti02.dll
